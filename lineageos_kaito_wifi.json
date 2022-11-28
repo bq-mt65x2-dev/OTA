@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1669417056,
+      "filename": "lineage-14.1-20221125-UNOFFICIAL-kaito_wifi.zip",
+      "id": "02ca721a3cd40e529434fee9bf01e98f",
+      "romtype": "unofficial",
+      "size": 344489933,
+      "url": "https://github.com/bq-mt65x2-dev/releases/releases/download/kaito_wifi-14.1_1st-release/lineage-14.1-20221125-UNOFFICIAL-kaito_wifi.zip",
+      "version": "14.1"
+    }
+  ]
+}
